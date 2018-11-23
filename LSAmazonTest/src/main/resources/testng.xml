@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testing.org/testing-1.0.dtd">
+<suite name="Amazon testing suite">
+	<test name="Amazon test cases">
+		<classes>
+			<class name="com.azn.qa.testcase.HomePageTest"></class>
+			<class name="com.azn.qa.testcase.LoginPageTest"></class>
+		</classes>
+	</test>
+</suite>

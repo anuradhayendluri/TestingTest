@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-11-21T16:32:07Z" name="Default suite" finished-at="2018-11-21T16:32:48Z" duration-ms="41066">
+    <groups>
+    </groups>
+    <test started-at="2018-11-21T16:32:07Z" name="Default test" finished-at="2018-11-21T16:32:48Z" duration-ms="41066">
+      <class name="com.azn.qa.testcase.TempPageTest">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:com.azn.qa.testcase.TempPageTest@4c39bec8]" started-at="2018-11-21T22:02:08Z" name="SetUp" finished-at="2018-11-21T22:02:17Z" duration-ms="9448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="CaptureTestData(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.azn.qa.testcase.TempPageTest@4c39bec8]" started-at="2018-11-21T22:02:17Z" name="CaptureTestData" data-provider="getTestData" finished-at="2018-11-21T22:02:17Z" duration-ms="24" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[anand]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mohan]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[hyd]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[111111.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureTestData -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.azn.qa.testcase.TempPageTest@4c39bec8]" started-at="2018-11-21T22:02:17Z" name="tearDown" finished-at="2018-11-21T22:02:17Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:com.azn.qa.testcase.TempPageTest@4c39bec8]" started-at="2018-11-21T22:02:17Z" name="SetUp" finished-at="2018-11-21T22:02:27Z" duration-ms="9930" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="CaptureTestData(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.azn.qa.testcase.TempPageTest@4c39bec8]" started-at="2018-11-21T22:02:27Z" name="CaptureTestData" data-provider="getTestData" finished-at="2018-11-21T22:02:27Z" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[arjun]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kumar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[dil]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[333333.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureTestData -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.azn.qa.testcase.TempPageTest@4c39bec8]" started-at="2018-11-21T22:02:27Z" name="tearDown" finished-at="2018-11-21T22:02:27Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:com.azn.qa.testcase.TempPageTest@4c39bec8]" started-at="2018-11-21T22:02:27Z" name="SetUp" finished-at="2018-11-21T22:02:37Z" duration-ms="9472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="CaptureTestData(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.azn.qa.testcase.TempPageTest@4c39bec8]" started-at="2018-11-21T22:02:37Z" name="CaptureTestData" data-provider="getTestData" finished-at="2018-11-21T22:02:37Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kiran]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[varma]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[kpt]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[444444.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CaptureTestData -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.azn.qa.testcase.TempPageTest@4c39bec8]" started-at="2018-11-21T22:02:37Z" name="tearDown" finished-at="2018-11-21T22:02:37Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:com.azn.qa.testcase.TempPageTest@4c39bec8]" started-at="2018-11-21T22:02:37Z" name="SetUp" finished-at="2018-11-21T22:02:48Z" duration-ms="11164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="sampleMethod()[pri:2, instance:com.azn.qa.testcase.TempPageTest@4c39bec8]" started-at="2018-11-21T22:02:48Z" name="sampleMethod" finished-at="2018-11-21T22:02:48Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.azn.qa.testcase.TempPageTest@4c39bec8]" started-at="2018-11-21T22:02:48Z" name="tearDown" finished-at="2018-11-21T22:02:48Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.azn.qa.testcase.TempPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
